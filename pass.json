@@ -1,2 +1,7 @@
-
-{ "master_password": "SAPhxe123" }
+{
+  "system_user_password": "SAPhxe123",
+  "default_tenant_system_user_password": "SAPhxe123",
+  "xsa_admin_password": "SAPhxe123",
+  "xsa_dev_password": "SAPhxe123",
+  "tel_admin_password": "SAPhxe123"
+}
